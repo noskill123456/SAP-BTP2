@@ -19,6 +19,11 @@ CLASS zs4d40101_hello_world IMPLEMENTATION.
 
 
    out->write( | Hello World! | ).
-
+   out->write( | Hello World! | ).
+   out->write( | Hello World! | ).
+    out->write( | Hello World! | ).
+   out->write( | Hello World! | ).
+    out->write( | Hello World! | ).
+   out->write( | Hello World! | ).
   ENDMETHOD.
 ENDCLASS.
